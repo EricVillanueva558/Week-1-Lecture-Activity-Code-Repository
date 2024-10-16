@@ -2,4 +2,3 @@
 # First Homework Assignment
 
 This repository contains my first homework assignment.
-
